@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{2E43BC6B-FFF3-4791-B0E9-CCB50C6DEB68}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{655D42DA-5E09-4477-B37D-AD7B8FB8C51F}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+	EndProjectSection
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "ClinicaMedicaCarlosAngelo", "src\ClinicaMedicaCarlosAngelo\ClinicaMedicaCarlosAngelo.xproj", "{F3408168-CFB5-4363-B2B7-EE438E46EB8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3408168-CFB5-4363-B2B7-EE438E46EB8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3408168-CFB5-4363-B2B7-EE438E46EB8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3408168-CFB5-4363-B2B7-EE438E46EB8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3408168-CFB5-4363-B2B7-EE438E46EB8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F3408168-CFB5-4363-B2B7-EE438E46EB8E} = {2E43BC6B-FFF3-4791-B0E9-CCB50C6DEB68}
+	EndGlobalSection
+EndGlobal
